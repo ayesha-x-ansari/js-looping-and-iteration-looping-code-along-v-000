@@ -8,8 +8,6 @@ function printBadges (names) {
   return names;
 }
 
-
-
 function tailsNeverFails () {
   let tails = 0;
 
